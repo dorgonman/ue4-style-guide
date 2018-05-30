@@ -165,9 +165,9 @@ Depending on how your asset variants are made, you can chain together variant na
 
 | Asset Type              | Asset Name                                                 |
 | ----------------------- | ---------------------------------------------------------- |
-| Static Mesh (01)        | S_Rock_01                                                  |
-| Static Mesh (02)        | S_Rock_02                                                  |
-| Static Mesh (03)        | S_Rock_03                                                  |
+| Static Mesh (01)        | SM_Rock_01                                                  |
+| Static Mesh (02)        | SM_Rock_02                                                  |
+| Static Mesh (03)        | SM_Rock_03                                                  |
 | Material                | Rock_Mat                                                   |
 | Material Instance (Snow)| Rock_Snow_Mat_Inst                                         |
 
@@ -365,7 +365,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
 | Physical Material       |            |  _Mat\_Phys  |                                  |
-| Physical Asset	  	  | PHYS_      |  _Asset\_Phys|                                  |
+| Physical Asset	  	  | 	       |  _Asset\_Phys|                                  |
 | Destructible Mesh       | DM_        |            |                                  |
 
 <a name="anc-sounds"></a>
