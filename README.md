@@ -250,7 +250,7 @@ When naming an asset use these tables to determine the prefix and suffix to use 
 
 | Asset Type              | Prefix     | Suffix     | Notes                            |
 | ----------------------- | ---------- | ---------- | -------------------------------- |
-| AI Controller           | AIC_       |            |                                  |
+| AI Controller           | BP_        | _AIC       |                                  |
 | Behavior Tree           | BT_        |            |                                  |
 | Blackboard              | BB_        |            |                                  |
 | Decorator               | BTDecorator_ |          |                                  |
